@@ -104,7 +104,7 @@ html, body {
 .whyme {
   font-weight: 300; }
   .whyme .container h4 {
-    width: 4em;
+    width: 3.7em;
     margin-top: 0;
     position: relative;
     top: 4em;
@@ -118,7 +118,7 @@ html, body {
     line-height: 25px; }
 
 .skills .container h4 {
-  width: 2.8em;
+  width: 2.5em;
   margin-top: 0;
   position: relative;
   top: 1em;
@@ -134,7 +134,7 @@ html, body {
 .goals {
   color: #eeeeee; }
   .goals .container h4 {
-    width: 2.9em;
+    width: 2.7em;
     margin-top: 0;
     position: relative;
     top: 3em;
@@ -149,7 +149,7 @@ html, body {
 .contact {
   color: #eeeeee; }
   .contact h4 {
-    width: 3.9em;
+    width: 3.7em;
     margin-top: 0;
     position: relative;
     top: 2em;
@@ -163,7 +163,7 @@ html, body {
     line-height: 30px; }
 
 .footer p {
-  width: 126px;
+  width: 8em;
   margin-top: 0;
   position: relative;
   top: 1em;
